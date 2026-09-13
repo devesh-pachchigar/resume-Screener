@@ -1,0 +1,11 @@
+Role: Data Scientist
+
+Must have:
+Python, SQL, Machine Learning, Scikit-learn, Statistics, Pandas,
+Data Visualization, Model Evaluation
+
+Good to have:
+Deep Learning, NLP, LangChain, AWS, MLOps, A/B Testing
+
+Experience:
+3+ years of experience building and deploying machine learning models.
